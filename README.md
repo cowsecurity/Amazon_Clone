@@ -1,5 +1,5 @@
 
-**Amazon Clone**
+# Amazon Clone
   Amazon clone is a website built on react on frontend and node js on backend, It has full e-commerce functionality along side stripe payments integration
   
   Amazon Clone provides - login/sign up functionality via firebase auth.
