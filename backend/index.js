@@ -1,6 +1,6 @@
 const express = require("express");
 const cors = require("cors");
-const stripe = require("stripe")("keyHere");
+const stripe = require("stripe")(/** Stripe Secret Key here**/);
 const port = process.env.PORT || 5000;
 // - App config
 
