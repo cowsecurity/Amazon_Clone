@@ -26,7 +26,7 @@ export const CheckoutPage = () => {
 };
 
 const promise = loadStripe(
-//   STRIPE CLIENT KEY HERE
+/**  STRIPE CLIENT KEY HERE **/
 );
 
 export const PaymentPage = () => {
