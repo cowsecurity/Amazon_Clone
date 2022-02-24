@@ -26,7 +26,7 @@ export const CheckoutPage = () => {
 };
 
 const promise = loadStripe(
-  "pk_test_51KViQ7SHsCQWEULQrrTopG8SVpcBD2qEr1zXUuujrxmfnC3guAgiTbJxkOi1ardcmvcW8LoOz7twtZxf8DMpXIe900p0xyf2CB"
+//   STRIPE CLIENT KEY HERE
 );
 
 export const PaymentPage = () => {
